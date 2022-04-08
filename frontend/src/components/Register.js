@@ -116,6 +116,7 @@ const Register = () => {
                     Already registered <Link to="/login">log in?</Link>
                 </p>
             </form>
+
         </div></>
     )
 }
